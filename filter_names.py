@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 input_folder = "/mnt/c/Users/Noel Liverton/OneDrive/Desktop/Noel/Pub Maps/The Knowledge/DATA"
-output_file = "filtered_streets_greater_london.csv"
+output_file = "greater_london_filtered_streets.csv"
 
 # Initialize an empty DataFrame to store filtered data
 filtered_data = pd.DataFrame()
