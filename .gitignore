@@ -1,2 +1,4 @@
 log.log
 steps.txt
+*.pkl
+*.csv
